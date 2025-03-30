@@ -35,6 +35,12 @@ và thực hiện như v với tất cả các bảng: lưu ý các bảng có c
 
 # hoặc sử dụng code bằng script data trong data QLSV
 
+![image](https://github.com/user-attachments/assets/4e8f4a79-f9b5-46fa-9df2-1221e29d02a3)
+
+
+# lệnh truy vấn 1 học sinh 
+![image](https://github.com/user-attachments/assets/c47f15f4-606f-4172-94cd-8ac3c21a8876)
+
 
 
 
