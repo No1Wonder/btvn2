@@ -42,6 +42,11 @@ và thực hiện như v với tất cả các bảng: lưu ý các bảng có c
 ![image](https://github.com/user-attachments/assets/c47f15f4-606f-4172-94cd-8ac3c21a8876)
 
 
+#Diagram của các bảng
+![image](https://github.com/user-attachments/assets/2d928237-6e94-4573-9984-0230bcd95c6a)
+
+
+
 
 
 
